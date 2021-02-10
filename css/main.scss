@@ -3,7 +3,7 @@
 ---
 // Customization Variables
 
-$accent: #5E3D21;
+$accent: #6b4a2d;
 
 $max-width: 740px;
 $med-width: 600px;
@@ -229,6 +229,7 @@ code {
     }
     img {
         text-align: center;
+        border: solid $accent 5px;
         margin: 10px 10px 10px 10px;
         max-width: $max-width;
     }
