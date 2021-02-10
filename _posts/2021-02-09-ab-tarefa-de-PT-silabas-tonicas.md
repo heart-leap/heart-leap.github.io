@@ -2,7 +2,7 @@
 layout: post
 title: Trabalho de Português - 1AT - 09/02/21
 subtitle: Silabas Tônicas.
-tags: [PT, Trabalho AB]
+tags: [Português]
 ---
 
 # 1. Separe as palavras oxítonas (acentuadas graficamente ou não) desse grupo de palavras:
