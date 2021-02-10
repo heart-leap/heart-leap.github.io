@@ -230,7 +230,8 @@ code {
     img {
         text-align: center;
         border: solid $accent 2px;
-        border-radius: 10px;
+        box-shadow:         3px 3px 5px 6px #ccc;
+        border-radius: 5px;
         margin: 10px 10px 10px 10px;
         max-width: $max-width;
     }
