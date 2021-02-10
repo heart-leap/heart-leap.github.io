@@ -1,6 +1,6 @@
-title: Acervo de Trabalhos do Eduardo Jefferson - AB - 1AT..
+title: Acervo de Trabalhos do Eduardo Jefferson - AB - 1AT.
 author: Leone
-subtitle: Este Web-Sitio servera para 
+subtitle: Este Web-Sitio servirá para guardar e documentar os meus trabalhos no AB durante o período de ensino remoto.
 
 url: "https://heart-leap.github.io"
 baseurl: "/"
@@ -18,5 +18,6 @@ sass:
     sass_dir: css
 
 navbar:
-
+ - name: "Resume"
+   absolute-link: "https://pro-panda.github.io/resume.pdf"
 
