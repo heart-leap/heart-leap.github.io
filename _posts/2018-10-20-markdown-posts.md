@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Or maybe Markdown
+title: Testde
 subtitle: This post explains how you can write posts using Markdown.
 tags: [guide, markdown]
 ---
@@ -13,9 +13,9 @@ Posts should be named as `%yyyy-%mm-%dd-your-post-title-here.md`, and placed in 
 
 -------------
 
-# This is a heading
-## This is a sub-heading
-### This is a sub-sub-heading
+# Primeiro
+## Segundo 
+### Terceiro
 
 <span class="color-blue">Some</span>
 <span class="color-green">cool</span>
@@ -28,13 +28,13 @@ Posts should be named as `%yyyy-%mm-%dd-your-post-title-here.md`, and placed in 
 <span class="highlight-red">styles.</span>
 
 **Here is a bulleted list,**
- - This is a bullet point
- - This is another bullet point
+ - K
+ - KK
 
 
 **Here is a numbered list,**
-1. You can also number things down.
-2. And so on.
+1. Lista 1
+2. Lista 2
 
 **Here is a sample code snippet in C,**
 ```C
