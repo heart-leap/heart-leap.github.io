@@ -5,7 +5,7 @@ subtitle: O Lugar Onde Há Tudo Que Há E Que Haverá.
 url: "https://heart-leap.github.io"
 baseurl: "/"
 
-footer_only_homepage: true
+footer_only_homepage: false
 footer_url: "https://twitter.com/SchifosoLo"
 footer_text: "Feito por Leone, Lo Schifoso."
 

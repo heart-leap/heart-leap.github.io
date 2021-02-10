@@ -1,0 +1,33 @@
+---
+layout: post
+title: Trabalho de Português - Eduardo Jefferson 1AT - 09/02/21
+subtitle: Silabas Tônicas.
+tags: [PT, Trabalho AB]
+---
+
+# 1. Separe as palavras oxítonas (acentuadas graficamente ou não) desse grupo de palavras:
+
+> CAJÁ MÁXIMO CAJU ÁGUA BEBEDOURO BEBEDOR CAFÉ RESPIRADOURO RESPIRADOR    APRENDER TÔNICO TONICO
+SÚPLICA SUPLICA ENEL ANEL SÁBIA SABIA SABIÁ TRAIRI NOBEL EIFEL CAFUNDÓ CARIRI SAPOTI BONÉ JABURU
+PITU ROLÉ CURIO AMAPÁ CEARÁ SAÍ
+
+# R.
+
+> CAJÁ CAJU BEBEDOR RESPIRADOR APRENDER ENEL ANEL SABIÁ TRAIRI NOBEL EIFEL CAFUNDÓ CARIRI SAPOTI
+BONÉ JABURU PITU ROLÉ AMAPÁ CEARÁ SAÍ
+-------------------------------------
+# 2. Acentue as oxítonas, segundo a regra aprendida:
+
+> ARMAZEM NINGUEM POREM AMEM AÇAI PAIS EMAUS MINGAUS ORIENTAL ANIMAL PASTEL FUNIL RAUL JERICO
+KARATE JUDO KUNGFU HOSPITAL CARCARA CRACHA AMOR COMPOR SENHOR ISOPOR PELE SOBREVIVER REVE
+COMPLO AUTOR MASSETER
+
+# R.
+
+> ARMAZÉM NINGUÉM PORÉM AMÉM AÇAÍ PAÍS EMAÚS MINGAU ANIMAL PASTEL FUNIL RAUL JERICÓ KARATÉ JUDÔ
+KUNGFU HOSPITAL CARCARÁ CRACHÁ COMPOR SENHOR ISOPOR PELE SOBREVIVER REVÊ COMPLÔ AUTOR
+MASSETER
+-------------------------------------
+
+
+Referencia: [Toda Materia](https://www.todamateria.com.br/silaba-tonica-e-atona/)
