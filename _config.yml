@@ -18,6 +18,5 @@ sass:
     sass_dir: css
 
 navbar:
- - name: "Resume"
-   absolute-link: "https://pro-panda.github.io/resume.pdf"
+
 
