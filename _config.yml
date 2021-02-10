@@ -1,6 +1,6 @@
-title: O Lugar Onde Há Tudo Que Há E Que Haverá..
+title: Acervo de Trabalhos do Eduardo Jefferson - AB - 1AT..
 author: Leone
-subtitle: O Lugar Onde Há Tudo Que Há E Que Haverá.
+subtitle: Este Web-Sitio servera para 
 
 url: "https://heart-leap.github.io"
 baseurl: "/"
@@ -18,8 +18,5 @@ sass:
     sass_dir: css
 
 navbar:
- - name: "About"
-   link: "about"
- - name: "Resume"
-   absolute-link: "https://pro-panda.github.io/resume.pdf"
+
 
