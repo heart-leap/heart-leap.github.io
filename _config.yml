@@ -5,7 +5,7 @@ subtitle: Este Web-Sitio servirá para guardar e documentar os meus trabalhos no
 url: "https://heart-leap.github.io"
 baseurl: "/"
 
-footer_only_homepage: false
+footer_only_homepage: true
 footer_url: "https://twitter.com/SchifosoLo"
 footer_text: "Feito por Leone, Lo Schifoso."
 
