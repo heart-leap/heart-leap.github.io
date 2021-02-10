@@ -6,13 +6,13 @@ url: "https://pro-panda.github.io"
 baseurl: "/parchment"
 
 footer_only_homepage: true
-footer_url: "https://github.com/pro-panda"
-footer_text: "Theme by pro-panda"
+footer_url: "https://twitter.com/SchifosoLo"
+footer_text: "Feito por Leone, Lo Schifoso."
 
 profile-picture: assets/profile.png
 favicon_location: assets/favicon.ico
 
-permalink: /:year-:month-:day-:title/
+permalink: /:day-:month-:year-:title/
 sass:
     style: compressed
     sass_dir: css
