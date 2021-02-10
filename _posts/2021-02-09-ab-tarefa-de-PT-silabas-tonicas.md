@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trabalho de Português - Eduardo Jefferson 1AT - 09/02/21
+title: Trabalho de Português - 1AT - 09/02/21
 subtitle: Silabas Tônicas.
 tags: [PT, Trabalho AB]
 ---
