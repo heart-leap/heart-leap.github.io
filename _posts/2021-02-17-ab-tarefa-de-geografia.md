@@ -11,8 +11,14 @@ tags: [Geografia]
 
 # 6) (Unimontes-MG) Considerando as relações de afetividade e identidade que as pessoas passam a estabelecer através de vivências e vínculos criados, os Parâmetros Curriculares Nacionais (1998) entendem que essa categoria geográfica permite que ocorra a comunicação entre o homem e o mundo. O texto faz referência a qual categoria geográfica?
 
-* A) Lugar.
+## R: 
+* A) Lugar. (V, Correta)
 * B) Região.
 * C) Territorio.
 * D) Espaço. 
 
+# 7) NE (UEPB) A figura mostra o muro que separa o Mé-xico dos Estados Unidos nas proximidades de Tijuana.  Assinale a alternativa que traz a categoria geográfica que melhor explica a presença desse elemento de se-paração entre os dois países.
+
+## C) Território, pois estabelece a linha divisória de apro-priação e delimitação dos poderes entre duas nações. 
+
+Referencia: Livro de Geografia Laudas 23 e 24.
