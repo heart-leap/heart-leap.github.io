@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Trabalho de Quimica - 1AT - 17/02/21
-subtitle: As bases da quimica.
-tags: [Quimica]
+title: Trabalho de Quimica - 1AT - 18/02/21
+subtitle: As Bases da Quimíca.
+tags: [Quimíca]
 ---
 
 # 7. O açúcar aumenta a densidade da solução. (B)
@@ -16,6 +16,8 @@ tags: [Quimica]
 # 11. Densidade = massa/volume D = 117g/15cm³ <br/> D = 7,8 g/cm³, Osso (B)
 
 # 12. Densidade = massa / volume 13,6 = m / 100 m = 13,6, 100 m = 1360 g, (C)
+
+[Referencia: Lauda 21, Do Livro de Quimíca.
 
 
 
