@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trabalho de Matematica - 1AT - 11/02/21
+title: Trabalho de Matematica - 1AT - 23/02/21
 subtitle: Subconjuntos.
 tags: [Matematica]
 ---
