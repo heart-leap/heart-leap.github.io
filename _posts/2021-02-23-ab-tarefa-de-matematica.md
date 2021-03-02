@@ -18,7 +18,7 @@ tags: [Matematica]
 
 ## A) A = { X/X é letra da palavra "beterraba" } 
 
-### R: A = { B, E, T, E, R, R, A, B, A}
+### R: A = { B, E, T, R, ,A}
 
 ## B) B = { X/X é nome de um estado brasileiro cuja letra inicial é P }
 
