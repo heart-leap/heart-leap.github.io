@@ -45,7 +45,7 @@ tags: [Matematica]
 
 ## F) ∅ € {∅, {a}}
 
-### R: A única alternativa falsa é a letra A, enquanto todas as outras são verdadeiras.
+### R: As únicas alternativas falsas são as letras A e B, enquanto todas as outras são verdadeiras.
 
 # 6) Em cada caso, identifique os conjuntos unitários e os vazios.
 
