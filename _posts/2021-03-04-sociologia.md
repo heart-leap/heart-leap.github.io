@@ -15,3 +15,5 @@ e a definição de senso comum:
 ## R:
 
 ### (D) a frase “resolvi inovar” significa, no caso, a ideia de assumir como natural um comportamento que poderia ser entendido como estranho.
+
+[Referncia, Págs. 16 e 17]()
