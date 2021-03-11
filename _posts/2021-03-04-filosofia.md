@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trabalho de Sociologia - 1AT - 04/03/21
+title: Trabalho de Filosofia - 1AT - 04/03/21
 subtitle: Tarefa de Casa.
 tags: [Filosofia]
 ---
